@@ -1,0 +1,36 @@
+1. Creating new variables and columns according to business needs ?
+2. Creating KPI's : which helps in decision making.
+3. How we can create an Indicator for entire dashboard: Green, Yellow, Red [Decision Affects]
+4. Statistical Equation that will help in forecasting
+
+
+Factors affecting the Housing Prices at Boston:
+
+Crime rates
+Nitrogen Oxides [NOX]
+Rooms
+Age of property
+Tax
+Proportion of lower status people living in community
+Type of community: Residential, Industrial, Mix
+Medv: Median price of property in thousands of dollars
+
+
+
+CRIM: Per capita crime rate by town
+ZN: proportion of residential land zoned for lots over 25K sq.ft
+INDUS: proportion of non-retail business acres per town
+CHAS: Charles River dummy variable (=1 if tract bounds river, 0 otherwise)
+NOX: Nitric Oxides concentration (parts per 10 million)
+RM: Average number of rooms per dwelling
+AGE: Proportion of owner-occupied units built prior to 1940
+DIS: weighted distances to 5 Boston employment centres
+RAD: Index of accessibility to radial highways
+TAX: full-value property-tax rate per $10,000
+PTRATIO: pupil-teacher ratio by town
+B: 1000(Bk - 0.63)^2, where Bk is the proportion of blacks by town
+LSTAT: % lower status of the population
+MEDV: Median Value of owner-occupied homes in $10,000's
+
+
+Creating Parameter: Gives the end-user power of what they want to see which is in their mind ? 
