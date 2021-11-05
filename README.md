@@ -28,3 +28,5 @@ Observations:
 
 
 For reference: You can refer my work here ! [Boston Housing Prices](https://public.tableau.com/views/Book4_16315208992700/Dashboard-Boston?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
+![image](https://user-images.githubusercontent.com/40695609/140501948-dac27798-590d-41f3-956d-bf5ecd0b7e32.png)
